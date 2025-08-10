@@ -98,6 +98,4 @@ Open the URL it shows (usually `http://localhost:8501`) in your browser.
 
 Feel free to ask if you have any questions or need assistance setting up or using the app!
 
----
 
-Would you like me to prepare any other files or guides?
