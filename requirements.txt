@@ -1,0 +1,6 @@
+streamlit
+python-docx
+unidecode
+langchain
+google-generativeai
+faiss-cpu

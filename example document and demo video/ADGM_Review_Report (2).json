@@ -1,0 +1,34 @@
+{
+    "process": "Company Incorporation",
+    "documents_uploaded": 1,
+    "required_documents": 5,
+    "missing_documents": [
+        "Memorandum of Association (MoA/MoU)",
+        "Incorporation Application Form",
+        "UBO Declaration Form",
+        "Register of Members and Directors"
+    ],
+    "issues_found": [
+        {
+            "document": "Articles of Association (AoA)",
+            "section": "General",
+            "issue": "The provided text is a draft Resolution of Incorporating Shareholders for an ADGM company",
+            "severity": "High",
+            "suggestion": "While it covers key elements, it needs significant improvement to ensure ADGM compliance"
+        },
+        {
+            "document": "Articles of Association (AoA)",
+            "section": "General",
+            "issue": "The provided text is a draft resolution of incorporating shareholders for a company in the Abu Dhabi Global Market (ADGM)",
+            "severity": "High",
+            "suggestion": "While it outlines key elements, it lacks crucial detail and compliance requirements to meet ADGM standards"
+        },
+        {
+            "document": "Articles of Association (AoA)",
+            "section": "General",
+            "issue": "The provided text is a good starting point for a Resolution of Incorporating Shareholders for an ADGM company, but it requires significant improvements to ensure ADGM compliance",
+            "severity": "High",
+            "suggestion": "The current version is deficient in several key areas:\n\n**Major Deficiencies and Required Amendments:**\n\n1"
+        }
+    ]
+}
